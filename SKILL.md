@@ -11,7 +11,7 @@ metadata:
             bins: [python3, pip3] # 依赖的系统命令
         primaryEnv: "" # 主要环境变量名
         emoji: "⚽" # 技能图标
-        homepage: https://github.com/xxx/lottery-odds-parser
+        homepage: https://github.com/yannhank/football_skill
 ---
 
 # 竞彩赛事赔率解析器
